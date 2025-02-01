@@ -1,0 +1,21 @@
+2025-02-01 13:18:15,094 - __main__ - INFO - Starting Flask application on 0.0.0.0:5000
+2025-02-01 13:18:40,355 - __main__ - INFO - Starting Flask application on 0.0.0.0:5000
+2025-02-01 13:18:42,409 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.18.134:5000
+2025-02-01 13:18:42,409 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-01 13:18:46,193 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 13:18:46] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-01 13:19:41,477 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 13:19:41] "GET / HTTP/1.1" 200 -
+2025-02-01 13:19:43,414 - __main__ - INFO - Attempt 1: Sending request to Ollama
+2025-02-01 13:19:51,579 - __main__ - INFO - Successfully received response from Ollama
+2025-02-01 13:19:51,582 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 13:19:51] "POST /api/chat HTTP/1.1" 200 -
+2025-02-01 13:19:54,495 - __main__ - INFO - Attempt 1: Sending request to Ollama
+2025-02-01 13:20:04,788 - __main__ - INFO - Successfully received response from Ollama
+2025-02-01 13:20:04,792 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 13:20:04] "POST /api/chat HTTP/1.1" 200 -
+2025-02-01 13:20:15,460 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 13:20:15] "GET / HTTP/1.1" 200 -
+2025-02-01 13:24:54,422 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 13:24:54] "GET / HTTP/1.1" 200 -
+2025-02-01 13:25:27,496 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 13:25:27] "GET / HTTP/1.1" 200 -
+2025-02-01 13:25:29,723 - __main__ - INFO - Attempt 1: Sending request to Ollama
+2025-02-01 13:25:46,457 - __main__ - INFO - Successfully received response from Ollama
+2025-02-01 13:25:46,457 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 13:25:46] "POST /api/chat HTTP/1.1" 200 -
