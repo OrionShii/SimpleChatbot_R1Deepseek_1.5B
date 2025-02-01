@@ -33,6 +33,11 @@ This application is designed for developers, students, or anyone who needs progr
 - 🧠 **Ollama API** – Local Deepseek Model  
 
 ---
+### 🎥Video 
+
+
+Uploading Screen Recording 2025-02-01 142542.mp4…
+
 
 ## 📦 Installation  
 
