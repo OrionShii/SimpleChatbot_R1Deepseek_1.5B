@@ -1,4 +1,4 @@
-**# SimpleChatbot_R1Deepseek_1.5B
+# SimpleChatbot_R1Deepseek_1.5B
  is a web-based AI application using deepseek-r1:1.5b that helps users write, understand, and debug code by displaying well-formatted code snippets with syntax highlighting.  
 
 This application is designed for developers, students, or anyone who needs programming assistance. With a responsive interface and powerful features, users can quickly get answers and ready-to-use code.  
@@ -38,8 +38,8 @@ This application is designed for developers, students, or anyone who needs progr
 
 ### 🔻 Clone Repository  
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/OrionShii/SimpleChatbot_R1Deepseek_1.5B.git
+cd SimpleChatbot_R1Deepseek_1.5B
 ```
 ### 📌 Install Dependencies
 Ensure Python and Flask are installed, then run:
