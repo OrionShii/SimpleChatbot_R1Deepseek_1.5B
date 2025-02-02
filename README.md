@@ -58,8 +58,3 @@ python app.py
 ```
 ### 🚧 Development Status
 - ⚠️ This project is still under development. Some features are incomplete, and bugs may exist. If you find an issue, please open an Issue or submit a Pull Request.
-
-### 🐛 Known Issues
-- ❌ Voice Input Bug – May not work on some browsers.
-- ❌ Limited Syntax Highlighting – Supports Python, JavaScript, CSS only.
-- ❌ Responsiveness Issues – Some UI elements may not scale properly.
