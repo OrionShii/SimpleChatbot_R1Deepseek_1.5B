@@ -36,7 +36,8 @@ This application is designed for developers, students, or anyone who needs progr
 ### 🎥Video 
 
 
-Uploading Screen Recording 2025-02-01 142542.mp4…
+https://github.com/user-attachments/assets/0aea0a76-4560-4c3f-ad1c-5892ae283c3b
+
 
 
 ## 📦 Installation  
